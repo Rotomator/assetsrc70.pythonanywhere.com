@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assetsrc70.pythonanywhere.com/sitemap.xml.gz
